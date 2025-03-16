@@ -9,8 +9,8 @@ with col1:
 
 with col2:
     st.title("Bishwash Bhattarai")
-    content = ("""Hi, I'm Bishwash, a Python developer passionate about building efficient and scalable solutions. 
+    content = """Hi, I'm Bishwash, a Python developer passionate about building efficient and scalable solutions. 
              I specialize in backend development. 
-             I enjoy solving problems through clean and optimized code.""")
+             I enjoy solving problems through clean and optimized code."""
     
     st.info(content)
